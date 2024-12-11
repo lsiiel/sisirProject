@@ -1,8 +1,9 @@
 1) открой powershell:
 ```bash
-  dotnet --version
+dotnet --version
 ```
 если выдает ошибку или версия не 8, то лучше на всякий случай установить 8:
+
 https://dotnet.microsoft.com/ru-ru/download/dotnet/8.0
 
 2) Создаешь папку sisir, открываешь её в редакторе кода и запускаешь команды по отдельности:

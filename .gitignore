@@ -1,0 +1,9 @@
+# Ignore build output directories
+bin/
+obj/
+# Ignore solution and project files that are generated on build
+sisr.sln
+# Ignore backup files or temporary files created by the SDK resolver
+*.Backup
+# Ignore .DS_Store files (created by macOS)
+.DS_Store
